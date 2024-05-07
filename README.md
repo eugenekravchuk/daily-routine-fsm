@@ -17,7 +17,7 @@ python game.py
 
 # Rules
 - You start playing from a start state - 'sleep' <br/>
-- And also you have four parameters that will influence your choices (time of the day, tiredness and apetite) <br/>
+- And also you have four parameters that will influence your choices (time of the day, tiredness and apetite and random behaviour) <br/>
 - With every input you more to a different state <br/>
 - The goal of the game is to get back to a sleep state till midnight <br/>
 - But you can't just sleep all day) You have to have dinner and then go to sleep <br/>
