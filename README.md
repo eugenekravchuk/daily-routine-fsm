@@ -1,5 +1,5 @@
 # Programmist Day Routine Game
-<img src="https://github.com/eugenekravchuk/daily-routine-fsm/assets/81439861/319d24dd-4ff2-4114-9f24-1e8fd5780584" width="400">
+<img src="https://github.com/eugenekravchuk/daily-routine-fsm/assets/81439861/319d24dd-4ff2-4114-9f24-1e8fd5780584" width="600">
 
 # Architecture
 The whole game concept is based on FSM (Finite State Machine) <br/>
