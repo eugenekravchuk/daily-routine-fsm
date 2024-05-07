@@ -16,14 +16,14 @@ python game.py
 ```
 
 # Rules
-You start playing from a start state - 'sleep' <br/>
-And also you have four parameters that will influence your choices (time of the day, tiredness and apetite) <br/>
-With every input you more to a different state <br/>
-The goal of the game is to get back to a sleep state till midnight <br/>
-But you can't just sleep all day) You have to have dinner and then go to sleep <br/>
-If you fail to do that - you loose <br/>
+- You start playing from a start state - 'sleep' <br/>
+- And also you have four parameters that will influence your choices (time of the day, tiredness and apetite) <br/>
+- With every input you more to a different state <br/>
+- The goal of the game is to get back to a sleep state till midnight <br/>
+- But you can't just sleep all day) You have to have dinner and then go to sleep <br/>
+- If you fail to do that - you loose <br/>
 
-P.S. Also, don't go to Zhytomyr, there is no way out of there...
+P.S. Don't go to Zhytomyr, there is no way out of there...
 
 # Restrictions:
 - You can have lunch only from 12AM and dinner from 6PM
