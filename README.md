@@ -1,10 +1,10 @@
 # Programmist Day Routine Game
-![image](https://github.com/eugenekravchuk/daily-routine-fsm/assets/81439861/319d24dd-4ff2-4114-9f24-1e8fd5780584)
+![image](https://github.com/eugenekravchuk/daily-routine-fsm/assets/81439861/319d24dd-4ff2-4114-9f24-1e8fd5780584 | width=300)
 
 # Architecture
 The whole game concept is based on FSM (Finite State Machine) <br/>
 Tha machine used in the game is below:
-![image](https://github.com/eugenekravchuk/daily-routine-fsm/assets/81439861/bd85f45b-d90b-4620-9699-76bbd06bacf9)
+![image](https://github.com/eugenekravchuk/daily-routine-fsm/assets/81439861/bd85f45b-d90b-4620-9699-76bbd06bacf9 | width=300)
 
 Also you can view it [here](https://www.figma.com/file/4JUdsV5ANTm8asC2KZwxUR/fsm_lab?type=whiteboard&node-id=0%3A1&t=qFkUun0aU0BkkOQO-1)
 
