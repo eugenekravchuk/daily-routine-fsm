@@ -2,7 +2,7 @@
 ![image](https://github.com/eugenekravchuk/daily-routine-fsm/assets/81439861/319d24dd-4ff2-4114-9f24-1e8fd5780584)
 
 # Architecture
-The whole game concept is based on FSM (Finite State Machine)
+The whole game concept is based on FSM (Finite State Machine) <br/>
 Tha machine used in the game is below:
 ![image](https://github.com/eugenekravchuk/daily-routine-fsm/assets/81439861/bd85f45b-d90b-4620-9699-76bbd06bacf9)
 
