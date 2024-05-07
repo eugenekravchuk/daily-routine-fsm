@@ -3,7 +3,7 @@
 
 # Architecture
 The whole game concept is based on FSM (Finite State Machine) <br/>
-Tha machine used in the game is below:
+Tha machine used in the game is below:<br/>
 <img src="https://github.com/eugenekravchuk/daily-routine-fsm/assets/81439861/bd85f45b-d90b-4620-9699-76bbd06bacf9" width="400">
 
 Also you can view it [here](https://www.figma.com/file/4JUdsV5ANTm8asC2KZwxUR/fsm_lab?type=whiteboard&node-id=0%3A1&t=qFkUun0aU0BkkOQO-1)
